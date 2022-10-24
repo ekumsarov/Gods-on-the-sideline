@@ -1,0 +1,15 @@
+{
+	"ActiveObjects":
+		[
+			{
+				"ID":"ForestMapIcon",
+				"MainEvent":"StartBattle",
+				"Active": false,
+				"Events": 
+				[
+					"TestBattle"
+				]
+			}
+		],
+	"CameraPosition":"ForestMapIcon"
+}

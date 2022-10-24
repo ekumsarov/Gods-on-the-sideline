@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 41a99ca6f6e604a48a0e02150218fee8, type: 3}
+  m_Name: Makosh
+  m_EditorClassIdentifier: 
+  _group1:
+  - {fileID: 11400000, guid: 6dcdbb585ce10894ebb5a12ceb2b4334, type: 2}
+  - {fileID: 11400000, guid: 712248fd2c7fee54b8457c4a94687961, type: 2}
+  - {fileID: 11400000, guid: 33eb11b02353d1644b4149b2134b3bc1, type: 2}
+  - {fileID: 11400000, guid: 3c30db6faeaccb44ea9ba9d8227f7920, type: 2}
+  _group2: []
+  _group3: []
+  _class: 4
+  _hp: 20
+  _name: Makosh
+  _icon: 
+  _description: 
+  _effectsImmune: []
+  _skillsData:
+  - _skillType: 0
+    _skillMin: 1
+    _skillMax: 2
+  - _skillType: 1
+    _skillMin: 0
+    _skillMax: 1
+  - _skillType: 2
+    _skillMin: 1
+    _skillMax: 2
+  - _skillType: 3
+    _skillMin: 0
+    _skillMax: 1
+  - _skillType: 4
+    _skillMin: 4
+    _skillMax: 8
+  - _skillType: 5
+    _skillMin: 2
+    _skillMax: 4

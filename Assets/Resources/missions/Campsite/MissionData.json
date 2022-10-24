@@ -1,0 +1,32 @@
+{
+	"Event": "SceneLoadEvent",
+	"ActiveObjects":
+		[
+			{
+				"ID":"MainIdol",
+				"MainEvent":"MainEvent",
+				"Active": false,
+				"Events": 
+				[
+				]
+			},
+			{
+				"ID":"TravelStart",
+				"MainEvent":"MainEvent",
+				"Active": true,
+				"Events":
+				[
+				]
+			},
+			{
+				"ID":"TravelStartMapIcon",
+				"MainEvent":"UlebReady",
+				"Active": true,
+				"Events":
+				[
+					"StartTravelFirstEvent"
+				]
+			}
+		],
+	"CameraPosition":"TravelStart"
+}

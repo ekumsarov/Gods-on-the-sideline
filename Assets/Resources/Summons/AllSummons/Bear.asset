@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 068482a1f5046844db6b2e19c3b6f828, type: 3}
+  m_Name: Bear
+  m_EditorClassIdentifier: 
+  _class: 3
+  _logicType: 0
+  _unitSide: 1
+  _hp: 15
+  _baseDamage: 10
+  _turnsCount: 0
+  _name: Bear
+  _icon: 
+  _description: 
+  _effectsImmune: []
+  _actions:
+  - {fileID: 5872649138542581966, guid: c4fec1a4a8d23264e936dc2dc4753832, type: 3}
+  _startActions: []
+  _endActions: []

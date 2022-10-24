@@ -1,0 +1,76 @@
+﻿HotArmor==Броня с пылу жару
+BigFist==Кулачище
+CreatorEarth==Творец земельный
+ArmorOfSvarog==Доспех Сварога
+Equipment==Снаряжение
+ForgeHammer==Кузнечий молот
+HeavenPunishment==Кара небесная
+MurdereKoschey==Убийца Кощея
+Quake==Дрожь земли
+Scorch==Опаление
+Sharpen==Заточить
+Altar==Алтарь
+GodBless==Благославление
+Shades==Цепи
+Solstice==Солнцестояние
+EyeForEye==Око за око
+Clouded==Заморзки
+DeadlyIce==Смертоносный холод
+IceClod==Ледяная глыба
+IcePin==Ледяные шипы
+PayForLiving==Плата за жизнь
+Shards==Осколки
+Wintered==Затуманенный разум
+ArmySkeletons==Армия скелетов
+Blizzard==Метель
+DeathClose==Смерть близка
+Resurrection==Воскрешение
+AxStrike==Удар секирой
+ChainZipper==Цепная молния
+LeadIntoBattle==Повести в бой
+ShieldBash==Удар щитом
+ThrowLightning==Метнуть молнию
+Thunder==Гром среди ясного неба
+ThunderClap==Громовой раскат
+CallADrugina==Призвать дружину
+Club==Палица
+FistFight==Кулачный бой
+Provocation==Провокация
+SoulUp==Воодушевление
+Sward==Меч
+TornadoDeath==Смерчь
+FinishOffFallDown==Добить лежачего
+FuriosBogatir==Ярость богатыря
+MotherEarthPower==Матушка земля. Сила
+MotherEarthShield==Матушка земля. Щит
+BecomeStronger==Станьте сильнее
+Heal==Лечение
+HealGroup==Лечение группы
+HeatOfSun==Жар солнце
+LightInDark==Свет во тьме
+ScorchAttak==Опаляющая атака
+SunFlame==Пламя солнце
+ArrowShoot==Выстрел
+ArrowToTheKnee==Стрелой в колено
+CuttingArrow==Режущая стрела
+HailOfArrows==Град стрел
+HitEye==В яблочко
+HitTeamHero==Удар по своим
+Snakes==Змеи
+Trap==Ловушка
+Perun'sDaughter==Дочь Перуна
+RevengeOfNature==Месть природы
+ThickFog==Густой туман
+TurnIntoWolf==Обернуться волчицей
+Bear==Медведь
+Horse==Лошадь
+NorthWind==Северный ветер
+Plantain==Подорожник
+TotemCurse==Тотем проклятие
+TotemPower==Тотем силы
+FlyAgaricFamily==Семья мухоморов
+HungryBear==Голодный медведь
+Mermaid==Русалка
+PackOfWolf==Стая волков
+Tornado==Торнадо
+EquipmentCardDescription==Случайно разыгрывает одну из карт: <color=orange>Доспех Сварога</color>, <color=orange>Убийца Кощея</color>, <color=orange>Кузнечий молот</color>

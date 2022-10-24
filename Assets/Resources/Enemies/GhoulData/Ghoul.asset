@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 53656c7ff2f880c479a92490fef02cea, type: 3}
+  m_Name: Ghoul
+  m_EditorClassIdentifier: 
+  _class: 1
+  _logicType: 0
+  _side: 2
+  _hp: 10
+  _baseDamage: 3
+  _name: Ghoul
+  _icon: 
+  _description: 
+  _sustainability: 
+  _susceptibility: 
+  _effectsImmune: []
+  _damageRule: {fileID: 0}
+  _healRule: {fileID: 7783891650180924459, guid: b3093bc197a8d754283a9bb9dc9978cc, type: 3}
+  _unitLogic: {fileID: 0}
+  _actions:
+  - {fileID: 1980832675453153343, guid: bd7b9f9f052df4344aa75ad9fda53a9f, type: 3}
+  - {fileID: 5061180856288147213, guid: 5cbff3c9796e82c4684026a5dfddbcda, type: 3}
+  _features:
+  - {fileID: -6382590417085038292, guid: 3dc9f03e40faad34990e73620fc29872, type: 3}

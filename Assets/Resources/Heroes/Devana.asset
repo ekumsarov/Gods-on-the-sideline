@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 41a99ca6f6e604a48a0e02150218fee8, type: 3}
+  m_Name: Devana
+  m_EditorClassIdentifier: 
+  _group1:
+  - {fileID: 11400000, guid: 567cbc9f92288484fb9da5a6c6b1abde, type: 2}
+  - {fileID: 11400000, guid: ab58d89b43d63d448996568868b077ff, type: 2}
+  - {fileID: 11400000, guid: f2be53b386afacd498f6e2ffe5774a85, type: 2}
+  - {fileID: 11400000, guid: d6c5f0de684b5eb44914dac948eb5e35, type: 2}
+  _group2: []
+  _group3: []
+  _class: 3
+  _hp: 25
+  _name: Devana
+  _icon: 
+  _description: 
+  _effectsImmune: []
+  _skillsData:
+  - _skillType: 0
+    _skillMin: 1
+    _skillMax: 2
+  - _skillType: 1
+    _skillMin: 2
+    _skillMax: 4
+  - _skillType: 2
+    _skillMin: 0
+    _skillMax: 1
+  - _skillType: 3
+    _skillMin: 4
+    _skillMax: 8
+  - _skillType: 4
+    _skillMin: 0
+    _skillMax: 1
+  - _skillType: 5
+    _skillMin: 1
+    _skillMax: 2

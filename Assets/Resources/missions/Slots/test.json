@@ -1,0 +1,29 @@
+﻿{
+	"SlotName": "Slot1",
+	"SelectedMission": "1",
+	"Difficulty": "Medium",
+	"Platform": "PC",
+	"RoundTime": 120,
+	"DaysPart": 4,
+	"DayTics": 12,
+	"AllTicks": 0,
+	"AvaliableBuilds": {
+		"Lumberjack": 1,
+		"Farm": 1,
+		"HunterHut": 1,
+		"TradesmanHut": 1
+	},
+	"ExploredResearch": {},
+	"LootBag": [ "WolfTrap", "Rubin", "Almaz" ],
+	"HeroList": [
+		{
+			"Name": "Bogatir"
+		},
+		{
+			"Name": "Perun"
+		}
+	],
+	"AvailiableHeroes": [],
+	"deck": [
+	]
+}

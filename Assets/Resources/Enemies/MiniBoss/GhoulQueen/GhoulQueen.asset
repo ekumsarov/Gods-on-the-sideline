@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 53656c7ff2f880c479a92490fef02cea, type: 3}
+  m_Name: GhoulQueen
+  m_EditorClassIdentifier: 
+  _class: 1
+  _logicType: 4
+  _side: 2
+  _hp: 40
+  _baseDamage: 3
+  _name: GhoulQueen
+  _icon: 
+  _description: 
+  _sustainability: 01000000
+  _susceptibility: 00000000
+  _effectsImmune: []
+  _damageRule: {fileID: -3006456913851219225, guid: 731e5b554e6d1c74da26778b6e6e4d29, type: 3}
+  _healRule: {fileID: 0}
+  _unitLogic: {fileID: 0}
+  _actions:
+  - {fileID: 3119616199354280346, guid: d009fe2e44c85b64f970d9bfd2afba67, type: 3}
+  - {fileID: 6435118591453928934, guid: 5d1d5c4c7af67284293e262ae9c24bd6, type: 3}
+  - {fileID: 6002206827629746377, guid: 9e99000eee19f7348bcb31ee805dd75e, type: 3}
+  - {fileID: -3806641716302617481, guid: ea4886e94af10da448f8653e80b3bec3, type: 3}
+  _features: []

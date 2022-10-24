@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 53656c7ff2f880c479a92490fef02cea, type: 3}
+  m_Name: Habernica
+  m_EditorClassIdentifier: 
+  _class: 1
+  _logicType: 2
+  _side: 2
+  _hp: 20
+  _baseDamage: 2
+  _name: Habernica
+  _icon: 
+  _description: 
+  _sustainability: 
+  _susceptibility: 
+  _effectsImmune: []
+  _damageRule: {fileID: 0}
+  _healRule: {fileID: 0}
+  _unitLogic: {fileID: 0}
+  _actions:
+  - {fileID: 2477744935236451815, guid: b49744a969f8fee4291443837b8a9b71, type: 3}
+  - {fileID: 6711026663657213394, guid: c534b6344cfb7c848ad6d99294a1203f, type: 3}
+  _features:
+  - {fileID: 3110619258445131146, guid: 4ed570a0f86f816429b4a0fc7bbdcae1, type: 3}

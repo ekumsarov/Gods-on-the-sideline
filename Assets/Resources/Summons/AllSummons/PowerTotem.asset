@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 068482a1f5046844db6b2e19c3b6f828, type: 3}
+  m_Name: PowerTotem
+  m_EditorClassIdentifier: 
+  _class: 0
+  _logicType: 0
+  _unitSide: 0
+  _hp: 0
+  _baseDamage: 0
+  _turnsCount: 0
+  _name: 
+  _icon: 
+  _description: 
+  _effectsImmune: []
+  _actions: []
+  _startActions: []
+  _endActions: []

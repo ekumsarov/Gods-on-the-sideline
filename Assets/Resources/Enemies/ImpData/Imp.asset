@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 53656c7ff2f880c479a92490fef02cea, type: 3}
+  m_Name: Imp
+  m_EditorClassIdentifier: 
+  _class: 1
+  _logicType: 0
+  _side: 2
+  _hp: 10
+  _baseDamage: 3
+  _name: Imp
+  _icon: 
+  _description: 
+  _effectsImmune:
+  - Fire
+  _actions:
+  - {fileID: 37614294737207426, guid: be6796f4631129145a6e0f39587d9746, type: 3}
+  - {fileID: 7337480369039615068, guid: a0a98bc0bd1276049a78d6f3751eb3e7, type: 3}
+  _features: []

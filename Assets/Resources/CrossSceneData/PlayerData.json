@@ -1,0 +1,25 @@
+{
+	"HeroList":
+	[
+		{"Name":"Bogatir"},
+		{"Name":"Perun"}
+	],
+	"deck":
+	[
+		{"Card":"FistFight","Amount":1},
+		{"Card":"Club","Amount":1},
+		{"Card":"TornadoDeath","Amount":1},
+		{"Card":"AxStrike","Amount":1},
+		{"Card":"CallADrugina","Amount":1},
+		{"Card":"SoulUp","Amount":1},
+		{"Card":"LeadIntoBattle","Amount":1},
+		{"Card":"ThrowLightning","Amount":1},
+		{"Card":"ChainZipper","Amount":1},
+		{"Card":"ShieldBash","Amount":1}
+	],
+	"MapIcons": 
+	[
+		"CampsiteMapIcon",
+		"PerunLocationMapIcon"
+	]
+}

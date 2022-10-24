@@ -1,0 +1,92 @@
+﻿GetRewardText==ВЫ ПОЛУЧИЛИ:
+NoText==Отсутствует текст
+ResourceRequirement==ТРЕБОВАНИЕ РЕСУРСОВ
+RequirementLabel==ТРЕБОВАНИЕ
+NewTest==Тултип\n<color=red>проверка</color><ending/>
+Ending==\n\n                             <color=blue>Нажмите чтобы продолжить...</color>
+HasNoResource==Недостаточно ресурсов для обмена.
+StorageLimit==Не хватает места на складе.
+BuildAction==Строить
+CloseDialogue==[<color=red>Закрыть</color>]
+MoveBack==[<color=red>Вернуться назад</color>]
+ContinueChat==[<color=red>Продолжить</color>]
+Continue==[<color=red>Продолжить</color>]
+continue==[<color=red>Продолжить</color>]
+Unavailable==Недоступно
+EmptyCell==Пустая ячейка
+NoTask==Нет Задач
+MarkRed==<color=red></color>
+MarkGreen==<color=green></color>
+MarkOrange==<color=orange></color>
+MarkYellow==<color=yellow></color>
+Bonfire==Костер
+Morning==Утро
+Afternoon==День
+Evening==Вечер
+Night==Ночь
+FightTask==<color=red>Атаковать</color>
+QuitTask==<color=brown>Уйти</color>
+BattleGroup==Отряд
+NoResource==<color=red>Не хватает ресурсов</color>
+ProductBuildPattern==Производит:\n{0} <icon={1}/> в день
+bloodhound==Ищейка
+BatActPointCost==\n\nСтоимость:<color=blue>{0}</color>
+QuestTemplate=={0}\n\n{1}
+QuestTemplateReward==\nНаграда:\n{0}
+ActionCommunication==<color=green>Общение</color>
+ActionFight==<color=red>Атаковать</color>
+ActionConquest==<color=red>Захватить</color>
+ActionRob==<color=yellow>Ограбить</color>
+ActionSearch==<color=blue>Разведать</color>
+ActionResearch==<color=blue>Исследовать</color>
+ResultSkillCheck==Результат: {0}
+SkillLabel==Навыки
+ActionLabel==Способности
+EffectLabel==Эффекты
+CardLabel==Карточка
+BloackLabel==Блок
+ResultLabel==Результат
+MaxResultLabel==Макс. Результат
+NeedBattleLabel==1Х Успех:
+SuccessLabel==Успех
+FailLabel==Провал
+CheckBattleLabel==Проверка
+CheckLabel==Проверка
+ResultCehckLabel==Требование {0} <icon=SuccessIcon/> , Макс. результат: 
+AbilitieLabel==Навык
+MinLabel==мин.
+MaxLabel==макс.
+strenghtSRT==СИЛ
+dexteritySRT==ЛВК
+staminaSRT==ВНС
+intelligenceSRT==ИНТ
+charismaSRT==ХАР
+strenghtFullSRT==Сила
+dexterityFullSRT==Ловкость
+staminaFullSRT==Выносливость
+intelligenceFullSRT==Интеллект
+charismaFullSRT==Хазирма
+Speak==*Говорить*
+Trade==*Торговать*
+WoodIcon==<icon=log/>
+StoneIcon==<icon=stone/>
+FoodIcon==<icon=apple/>
+SkystoneIcon==<icon=gravore/>
+UnitIcon==<icon=persIcon/>
+NewQuestLabel==Новая цель!
+CompleteQuestLabel==Цель выполнена!
+FailQuestLabel==Цель провалена!
+Close==[<color=red>Закрыть</color>]
+MoveTo==[Перейти]
+BattleActionCheckTemplate==Проверка:{0}\nСложность:{1}
+SkillRequestPattern==Skill Check:
+SkillLabelLight==Light
+SkillLabelDark==Dark
+SkillLabelSpirit==Spirit
+SkillLabelNature==Nature
+SkillLabelCraft==Craft
+SkillLabelElementals==Elementals
+AttackDescription=={0} Damage
+ApplyEffectDescription==Apply {0}
+HealDescription==Heal {0}
+SummonDescription==Summon {0}

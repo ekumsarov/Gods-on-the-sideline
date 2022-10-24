@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 41a99ca6f6e604a48a0e02150218fee8, type: 3}
+  m_Name: Svarog
+  m_EditorClassIdentifier: 
+  _group1:
+  - {fileID: 11400000, guid: 0b4d091c5aabf094787a6529cdcc02eb, type: 2}
+  - {fileID: 11400000, guid: 778f7184d253f9340b4312c0f529e537, type: 2}
+  - {fileID: 11400000, guid: aa08229bacd795b47af167925e41dfa8, type: 2}
+  - {fileID: 11400000, guid: 889cf709d8aa25b4e93120f22c3c3fff, type: 2}
+  _group2: []
+  _group3: []
+  _class: 5
+  _hp: 35
+  _name: Svarog
+  _icon: 
+  _description: 
+  _effectsImmune: []
+  _skillsData:
+  - _skillType: 0
+    _skillMin: 2
+    _skillMax: 4
+  - _skillType: 1
+    _skillMin: 0
+    _skillMax: 1
+  - _skillType: 2
+    _skillMin: 0
+    _skillMax: 1
+  - _skillType: 3
+    _skillMin: 1
+    _skillMax: 2
+  - _skillType: 4
+    _skillMin: 1
+    _skillMax: 2
+  - _skillType: 5
+    _skillMin: 4
+    _skillMax: 8
